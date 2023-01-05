@@ -1,0 +1,276 @@
+/* -------------------------------------------------------------------------------- */
+/* ! Mobile */
+/* -------------------------------------------------------------------------------- */
+@media (max-width: 640px) {
+    section>p {
+      font-size: 16px;
+    }
+  }
+  
+  @media (max-width: 590px) {
+    .more-info .list-a {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 527px) {
+    #Contact .grid-container {
+      grid-template-columns: repeat(1, 100%);
+      gap: 0px;
+      row-gap: 0px;
+      margin-top: 10px;
+    }
+  
+    .more-info {
+      display: none;
+      visibility: hidden;
+    }
+  }
+  
+  @media (max-width: 572px) {
+    .mrk.open {
+     height: 138px;
+    }
+  }
+  @media (max-width: 498px) {
+    .prog.open {
+      height: 120px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    html {
+      -webkit-overflow-scrolling: touch;
+    }
+  
+    
+    h1 {
+      font-size: 1.45rem;
+    }
+  
+    .hide-mb {
+      display: none !important;
+      visibility: hidden;
+    }
+  
+    .width {
+      padding: 15px;
+    }
+  
+    .button {
+      border: 1px solid var(--white);
+    }
+  
+    .typewriter h1 {
+      letter-spacing: unset;
+    }
+  
+    .title ul {
+      row-gap: 3px;
+      flex-wrap: wrap;
+    }
+  
+    .contact-list {
+      flex-direction: column;
+    }
+  
+    .lang li {
+      margin-bottom: 12px;
+    }
+  
+    .level-container {
+      width: 98%;
+    }
+  
+    .school {
+      grid-template-columns: repeat(1, 100%);
+    }
+  
+    .school .info bold {
+      font-size: 16px;
+    }
+  
+    .school .info>li {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+  
+    .school .info li>span {
+      font-size: 14px;
+    }
+  
+    .grid_item .fa-ul {
+      --fa-li-margin: 1.5em !important;
+    }
+  
+    .grid_item .fa-ul>li {
+      font-size: 14px;
+      margin-bottom: 3px;
+    }
+  
+    .grid_item-full {
+      gap: 10px;
+      grid-template-columns: repeat(2, 25% 70%);
+    }
+  
+    .grid_item-full .info {
+      padding-left: 10px;
+    }
+  
+    .print {
+      padding: 7px 0px;
+      max-width: 210px;
+      width: 55%;
+      margin: auto;
+      display: block;
+    }
+  
+    .git-follow .button {
+      display: inline-block;
+      margin-top: 5px;
+      padding: 3px 7px
+    }
+  
+    .list h4 {
+      padding: 10px 5px;
+      border-radius: 7px;
+      font-weight: 500;
+    }
+  
+    .list h4:hover {
+      color: var(--white);
+    }
+  
+    .dropdown_menu_item img {
+      width: 21px;
+      height: 21px;
+    }
+  
+    .dropdown_menu_item li {
+      font-size: 14px;
+    }
+  
+    .open {
+      height: 45px;
+    }
+  
+    .prog.open {
+      height: 45px;
+    }
+  
+    .magic-cont {
+      margin: 0 auto;
+      padding: 7px 10px;
+      font-size: 14px;
+    }
+  
+    #colorpicker {
+      margin-left: 5px;
+      height: 35px;
+      width: 35px;
+    }
+  }
+  
+  @media (max-width: 438px) {
+    .prog.open {
+      height: 110px;
+    }
+  }
+  
+  @media (max-width: 425px) {
+    form .button {
+      width: 100%;
+      float: unset;
+    }
+  }
+  
+  @media (max-width: 414px) {
+    .mrk.open {
+      height: 110px;
+    }
+  }
+  
+  @media (max-width: 350px) {
+    h1 {
+      font-size: 1.2rem;
+    }
+  
+    .hide-mb-litle {
+      display: none !important;
+      visibility: hidden;
+    }
+  
+    .width {
+      min-width: 280px;
+    }
+  
+    .typewriter h1 {
+      white-space: unset;
+      font-size: 1.7rem;
+      animation: blink-caret .5s step-end infinite;
+    }
+  
+    .title ul {
+      row-gap: 7px;
+    }
+  
+    .social {
+      font-size: 18px;
+      margin-top: 12px !important;
+      gap: 12px;
+    }
+  
+    .level-container {
+      width: 100%;
+    }
+  
+    .school .info bold {
+      font-weight: 500;
+    }
+  
+    .school .info>li {
+      font-size: 12px;
+      margin-bottom: 7px;
+    }
+  
+    .grid_item .fa-ul {
+      --fa-li-margin: 1.1em !important;
+    }
+  
+    .grid_item-full {
+      gap: 10px;
+      grid-template-columns: repeat(2, 20% 80%);
+    }
+  
+    .grid_item-full h3 {
+      margin-bottom: 5px !important;
+      font-size: 1rem;
+    }
+  
+    .grid_item-full img {
+      max-width: 85%;
+      max-height: 40px;
+    }
+  
+    .grid_item .fa-ul>li {
+      font-size: 14px;
+      margin-bottom: 3px;
+    }
+  
+    .print {
+      width: 80%;
+    }
+  
+    .magic-cont {
+      margin: 0 auto;
+      padding: 5px 7px;
+      font-size: 13px;
+    }
+  
+    #colorpicker {
+      margin-left: 5px;
+      height: 35px;
+      width: 35px;
+    }
+  }
+  

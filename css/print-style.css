@@ -1,0 +1,100 @@
+@media print {
+    body{
+      background-color: transparent;
+    }
+    
+    .no-print {
+      visibility: hidden;
+      display: none
+    }
+  
+    h1, h2, h3, h4, i {
+      color: var(--black);
+    }
+    .title h4{
+      display: unset;
+    }
+    .left-line {
+      border-left: 4px solid var(--black);
+    }
+  
+    .typewriter h1 {
+      color: var(--black);
+      text-align: left;
+      border-right: 0;
+      animation: unset;
+      margin-bottom: 5px;
+    }
+  
+    .social a>i {
+      color: var(--black2);
+    }
+    .contact-list li>i {
+      color: var(--black);
+      vertical-align: middle;
+    }
+  
+    .contact-list li>a {
+      color: var(--black);
+      font-size: 18px;
+      vertical-align: middle;
+    }
+  
+    bold {
+      font-weight: 900;
+    }
+  
+    section>p {
+      color: var(--black2);
+      font-weight: 600;
+    }
+  
+    .grid_container {
+      max-width: 95%;
+      grid-template-columns: repeat(2, 50%);
+      page-break-after: always;
+    }
+  
+    .grid_item ul {
+      color: var(--black);
+      font-weight: 600;
+    }
+  
+    .level-print {
+      display: block !important;
+      margin-top: 100px;
+      border: 3px solid var(--color);
+      width: 70%;
+      margin: 0px;
+    }
+  
+    .uk {
+      width: 55%;
+    }
+  
+    #about-me h3 {
+      margin-bottom: 7px;
+    }
+  
+    .school .info bold {
+      color: var(--balck);
+    }
+  
+    .school .info>li {
+      color: var(--black2);
+    }
+  
+    .school .info li>span {
+      color: var(--balck);
+    }
+  
+    .grid_item-full span {
+      color: var(--black);
+      font-weight: 600;
+    }
+  
+    .grid_item-full li {
+      color: var(--black2);
+    }
+  }
+  
