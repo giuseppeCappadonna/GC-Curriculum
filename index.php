@@ -27,6 +27,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <meta name="description" content="Mi chiamo Giuseppe, appassionato di informatica e del mondo Web e Digitale fin dalla nascita. Con un approccio learn-by-doing, ho imparato dall'esperienza diretta sul campo, concentrandomi sulla Gestione Aziendale e sull'ottimizzazione dell'efficienza. Con oltre 3 anni di esperienza in Sviluppo Web, offro servizi di Data Analysis e pianificazione di campagne di Marketing su Google, Meta e Linkedin. Specializzato anche nel Social Media Management, creo, pianifico e scrivo post su misura. Gestisco i Canali Social per Aziende, Associazioni e Professionisti, collaborando per definire la Linea Editoriale perfetta.">
+  <meta name="keywords" content="web design, design responsivo, ottimizzazione SEO, esperienza utente, siti web su misura, giuseppe cappadonna, sviluppo web, Social Media Management, Copywriting, marketing, ecommerce manager, sviluppo ecommerce, html, css, sviluppatore wordpres, sviluppatore ready pro, readypro, ready pro, ads specialist, developer">
+  <meta name="robots" content="index, follow">
+
+  <meta property="og:title" content="Giuseppe Cappadonna - Developer, Ecommerce & Marketing Specialist">
+  <meta name="twitter:title" content="Giuseppe Cappadonna - Developer, Ecommerce & Marketing Specialist">
+  
   <title>Giuseppe Cappadonna</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" integrity="sha512-oHDEc8Xed4hiW6CxD7qjbnI+B07vDdX7hEPTvn9pSZO1bcRqHp8mj9pyr+8RVC2GmtEfI2Bi9Ke9Ass0as+zpg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="css/style.css">
@@ -109,13 +117,13 @@
         <div class="grid_item study">
           <h3><i class="fa-solid fa-graduation-cap fa-xs"></i> Studi</h3>
           <div class="school">
-            <img src="img/fabio-besta.png" class="hide-mb" alt="ITCA Fabio Besta">
+            <img src="img/unict.png" class="hide-mb toblk" alt="Università di Catania">
             <ul class="info">
               <li>
-                <bold>ITCA F. Besta</bold>
+                <bold>Università di Catania</bold>
               </li>
-              <li>Ragioneria <br>(Sistemi Informativi Aziendali)</li>
-              <li><span>2017-2022</span></li>
+              <li>Informatica <br> Artificial intelligence and robotics</li>
+              <li><span>Undergraduate</span></li>
             </ul>
           </div>
         </div>

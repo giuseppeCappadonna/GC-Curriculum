@@ -2,8 +2,13 @@
     body{
       background-color: transparent;
     }
-    
-    .no-print {
+
+    .toblk{
+      filter: brightness(0%);
+    }
+
+    .no-print,
+    .iubenda-cs-container {
       visibility: hidden;
       display: none
     }
