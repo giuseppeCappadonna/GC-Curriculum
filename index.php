@@ -26,12 +26,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  <meta name="description" content="Mi chiamo Giuseppe, appassionato di informatica e del mondo Web e Digitale fin dalla nascita. Con un approccio learn-by-doing, ho imparato dall'esperienza diretta sul campo, concentrandomi sulla Gestione Aziendale e sull'ottimizzazione dell'efficienza. Con oltre 3 anni di esperienza in Sviluppo Web, offro servizi di Data Analysis e pianificazione di campagne di Marketing su Google, Meta e Linkedin. Specializzato anche nel Social Media Management, creo, pianifico e scrivo post su misura. Gestisco i Canali Social per Aziende, Associazioni e Professionisti, collaborando per definire la Linea Editoriale perfetta.">
+  <meta name="description" content="Ciao, mi chiamo Giuseppe, mi piace l'informatica e tutto ciò che è il mondo Web e Digitale da quando sono nato. Credo molto nell'approccio learn-by-doing e ho sempre imparato dall'esperienza diretta sul campo. Mi piace anche tutto ciò che ruota intorno alla Gestione Aziendale e a ciò che ne migliora l'efficienza">
   <meta name="keywords" content="web design, design responsivo, ottimizzazione SEO, esperienza utente, siti web su misura, giuseppe cappadonna, sviluppo web, Social Media Management, Copywriting, marketing, ecommerce manager, sviluppo ecommerce, html, css, sviluppatore wordpres, sviluppatore ready pro, readypro, ready pro, ads specialist, developer">
   <meta name="robots" content="index, follow">
 
-  <meta property="og:title" content="Giuseppe Cappadonna - Developer, Ecommerce & Marketing Specialist">
-  <meta name="twitter:title" content="Giuseppe Cappadonna - Developer, Ecommerce & Marketing Specialist">
+  <meta property="og:title" content="Giuseppe Cappadonna - Web Designer, Logistic Specialist">
+  <meta name="twitter:title" content="Giuseppe Cappadonna - Web Designer, Logistic Specialist">
   
   <title>Giuseppe Cappadonna</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" integrity="sha512-oHDEc8Xed4hiW6CxD7qjbnI+B07vDdX7hEPTvn9pSZO1bcRqHp8mj9pyr+8RVC2GmtEfI2Bi9Ke9Ass0as+zpg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -74,7 +74,7 @@
       </p>
       <h2 class="left-line not-select">Cosa Faccio</h2>
       <p>
-        Grazie al'<bold>esperienza e percorso di studi</bold> inerente,
+        Grazie all'<bold>esperienza e percorso di studi</bold> inerente,
         <bold>sono in grado di collaborare con gli imprenditori</bold> che vogliono portare <bold>online la loro azienda</bold> tramite <bold>l'E-Commerce</bold>.
       </p>
       <p>
