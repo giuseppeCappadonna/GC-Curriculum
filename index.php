@@ -46,7 +46,7 @@
   <section class="width">
     <div class="title typewriter not-select">
       <h1>Giuseppe Cappadonna.it</h1>
-      <h4>Web Marketing & E-Commerce Specialist</h4>
+      <h4>Web Designer & Logistic Specialist</h4>
       <ul class="social">
         <li><a href="https://github.com/giuseppeCappadonna" target="_blank"><i class="fa-brands fa-github"></i></a></li>
         <li><a href="https://www.linkedin.com/in/giuseppe-cappadonna/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
@@ -74,17 +74,20 @@
       </p>
       <h2 class="left-line not-select">Cosa Faccio</h2>
       <p>
-        Grazie al'<bold>esperienza e percorso di studi</bold> inerente a questo campo
-        <bold>collaboro con gli imprenditori</bold> che vogliono portare <bold>online la loro azienda</bold> tramite <bold>l'E-Commerce</bold>.
+        Grazie al'<bold>esperienza e percorso di studi</bold> inerente,
+        <bold>sono in grado di collaborare con gli imprenditori</bold> che vogliono portare <bold>online la loro azienda</bold> tramite <bold>l'E-Commerce</bold>.
       </p>
       <p>
-        <bold>Mi occupo</bold> da più di 3 anni anche <bold>di Sviluppo Web</bold> durante i quali ho potuto acquisire esperienza nella <bold>Data Analysis</bold>
-        e <bold>pianificazione di campagne Markenting</bold> sulle piattaforme <bold>Google, Meta e Linkedin</bold>.<br>
+        <bold>Mi occupo</bold> da più di 4 anni <bold>di Sviluppo Web</bold> durante i quali ho potuto acquisire esperienza anche nella
+        <bold>pianificazione di campagne Markenting</bold> sulle piattaforme <bold>Google, Meta e Linkedin</bold>.<br>
       </p>
-      <p>
+      <p class="hide no-print">
         In oltre mi occupo anche di <bold>Social Media Management</bold>, seguendo personalmente la <bold>Creazione, Pianificazione e  il Copywriting</bold> dei Post.<br>
         Gestisco i Canali Social per Aziende, Associazione e Professionisti di <bold>diversi settori</bold>,
         scegliendo insieme al cliente la <bold>Linea Editoriale</bold> più adatta da seguire.
+      </p>
+      <p>
+        In oltre grazie all'esperienza lavorativa nella <bold>Logistica</bold> ho acquisito le competenze di <bold>Leadership</bold> necessarie per gestire un magazino sia nella pratica che nella gestione informatica.
       </p>
       <div class="grid_container not-select">
         <div class="grid_item lang">
@@ -129,22 +132,48 @@
           <h3><i class="fa-solid fa-heart fa-xs"></i> Passioni</h3>
           <ul class="fa-ul" style="--fa-li-margin:2em">
             <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Viaggiare</li>
+            <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Imparare</li>
             <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Fitness</li>
-            <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Cavalli</li>
           </ul>
         </div>
         <div class="grid_item">
           <h3><i class="fa-solid fa-vial fa-xs"></i> Esperto in</h3>
           <ul class="fa-ul" style="--fa-li-margin:2em">
             <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Web Design</li>
+            <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Project Manager</li>
             <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Marketing</li>
-            <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>E-commerce Management</li>
-            <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Social Media Management</li>
+            <li><span class="fa-li"><i class="fa-solid fa-minus fa-xs"></i></span>Logistica</li>
           </ul>
         </div>
       </div>
       <h2 class="not-select"><i class="fa-solid fa-briefcase fa-xs"></i> Esperienze lavorative</h2>
       <div id="work" class="grid_container-full not-select">
+      <div class="grid_item-full">
+          <div class="logo">
+            <img src="https://giuseppecappadonna.altervista.org/Iperbagno-Icon/logo-web-iperbagno.png" alt="SIR logo">
+          </div>
+          <div class="info">
+            <h3>Iperbagno.com</h3>
+            <ul>
+              <li><span>Ruolo:</span> Logistica & Marketing Ecommerce</li>
+              <li><span>Luogo:</span> Ragusa</li>
+              <li><span>Data:</span> 2021-Oggi</li>
+            </ul>
+          </div>
+        </div>
+        <div class="grid_item-full">
+          <div class="logo">
+            <img src="img/aco-logo.png" alt="Aco Web Solutions logo">
+          </div>
+          <div class="info">
+            <h3>Aco Web Solutions</h3>
+            <ul>
+              <li><span>Ruolo:</span> Web Designer e Project Manager</li>
+              <li><span>Luogo:</span> Ragusa & Remote</li>
+              <li><span>Data:</span> 2023-oggi</li>
+            </ul>
+          </div>
+        </div>
         <div class="grid_item-full">
           <div class="logo">
             <img src="img/logo-sir.png" alt="SIR logo">
@@ -154,20 +183,7 @@
             <ul>
               <li><span>Ruolo:</span> Social Media Manager & Consigliere</li>
               <li><span>Luogo:</span> Ragusa</li>
-              <li><span>Data:</span> 2022-Oggi</li>
-            </ul>
-          </div>
-        </div>
-        <div class="grid_item-full">
-          <div class="logo">
-            <img src="https://giuseppecappadonna.altervista.org/Iperbagno-Icon/logo-web-iperbagno.png" alt="SIR logo">
-          </div>
-          <div class="info">
-            <h3>Iperbagno.com</h3>
-            <ul>
-              <li><span>Ruolo:</span> E-commerce Specialist</li>
-              <li><span>Luogo:</span> Ragusa</li>
-              <li><span>Data:</span> 2021-Oggi</li>
+              <li><span>Data:</span> 2022-2024</li>
             </ul>
           </div>
         </div>
@@ -180,7 +196,7 @@
             <ul>
               <li><span>Ruolo:</span> Freelance</li>
               <li><span>Luogo:</span> Ragusa & Remote</li>
-              <li><span>Data:</span> 2020-Oggi</li>
+              <li><span>Data:</span> 2020-2023</li>
             </ul>
           </div>
         </div>
@@ -201,14 +217,14 @@
       </p>
       <div class="slider_container">
         <div class="slider_inner">
-          <div class="slider_card">
+        <div class="slider_card">
             <div class="card-img">
-              <img src="img/sir-tbh.png" alt="SIR">
+              <img src="img/aco-website.png">
             </div>
             <div class="info">
-              <h3>Societàippicaragusana.it</h3>
+              <h3>Aco Website</h3>
               <p>
-                Ho realizzato il tema Wordpress.
+                Ho realizzato il sito web aziendale
               </p>
             </div>
           </div>
@@ -219,19 +235,18 @@
             <div class="info">
               <h3>Iperbagno.com</h3>
               <p>
-                Mi occupo della parte gestionale e tecnica dell'E-Commerce.
+                Mi sono occupato della logistica e della realizazione del tema ReadyPro
               </p>
             </div>
           </div>
           <div class="slider_card">
             <div class="card-img">
-              <img src="img/no-tbh.png">
+              <img src="img/sir-tbh.png" alt="SIR">
             </div>
             <div class="info">
-              <h3>Concept: slider-menu-js</h3>
+              <h3>Societàippicaragusana.it</h3>
               <p>
-                Ho collaborato all'ideazione e realizzazione di un nuovo concept
-                innovativo per i menu mobile.
+                Ho realizzato il tema Wordpress.
               </p>
             </div>
           </div>
